@@ -16,7 +16,7 @@ https://play.google.com/store/apps/details?id=com.cathay.mymobione
 --------
 <p align="left">
   <img src="https://i.imgur.com/s7ZZfpW.png" width="230"/>
-  <img src="https://i.imgur.com/9iDLuEu.png" width="430"/>
+  <img src="https://i.imgur.com/9iDLuEu.png" width="230"/>
 </p> 
 
 備註
